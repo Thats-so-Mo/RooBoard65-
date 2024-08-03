@@ -1,5 +1,5 @@
 # RooBoard65-
-Housing model and hex code  Skippy's Custom PCs' RooBoard65
+The Housing plate models (front and back panels with/out logo) and the hex code for  Skippy's Custom PCs' RooBoard65
 
 
 
