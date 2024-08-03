@@ -6,7 +6,7 @@ The Housing plate models (front and back panels with/out logo) and the hex code 
 The following below is just information found on the sale page of this Mechanical Keyboard (65%) on Skippy's Custom PCs website:
 
 
-<h2>  RooBoard™ Carbon 65% Mechanical Keyboard Assembled  </h2>
+<h2>  RooBoard Carbon 65% Mechanical Keyboard Assembled  </h2>
 
 <img
   src="https://github.com/Thats-so-Mo/RooBoard65-/blob/main/Screenshot%202024-08-03%20214506.png?raw=true"     
