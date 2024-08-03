@@ -3,7 +3,7 @@ Housing model and hex code  Skippy's Custom PCs' RooBoard65
 
 
 
-The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
+The following below is just information found on the sale page of this Mechanical Keyboard (65%) on Skippy's Custom PCs website:
 
 
 <h2>  RooBoard™ Carbon 65% Mechanical Keyboard Assembled  </h2>
