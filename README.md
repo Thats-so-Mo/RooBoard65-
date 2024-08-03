@@ -9,7 +9,7 @@ The following below is just information found on the sale page of this Numpad on
 <h2>  RooBoard™ Carbon 65% Mechanical Keyboard Assembled  </h2>
 
 <img
-  src="https://raw.githubusercontent.com/Thats-so-Mo/RooPad-ADJ/main/Screenshot%202023-05-14%20151133.png"     
+  src="https://github.com/Thats-so-Mo/RooBoard65-/blob/main/Screenshot%202024-08-03%20214506.png?raw=true"     
   alt="Alt text"
   title="RooPad"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
