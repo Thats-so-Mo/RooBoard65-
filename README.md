@@ -1,6 +1,7 @@
 # RooBoard65-
 The Housing plate models (front and back panels with/out logo) and the hex code for  Skippy's Custom PCs' RooBoard65. I created this repository to essentially create a backup archival hub for the Rooboard, to be able to replace and source, manufacture replacement components of said keyboard from sources not of Skippy's Custom PCs. I built this repository just so that in the future, if someone who has this keyboard may have damaged a component of it such as the face plate, they will be able to replace it. 
 
+[![IMAGE ALT TEXT HERE](https://github.com/Thats-so-Mo/RooBoard65-/blob/main/custom%20mechanica%20kbeyboard.png?raw=true)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=CFnU1wdn3AY))
 
 
 The following below is just information found on the sale page of this Mechanical Keyboard (65%) on Skippy's Custom PCs website:
